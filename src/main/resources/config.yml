@@ -1,0 +1,14 @@
+weapons:
+  glock:
+    fire-rate-ticks: 4
+    damage: 6.0
+  92fs:
+    fire-rate-ticks: 5
+    damage: 7.0
+  px4:
+    fire-rate-ticks: 4
+    damage: 6.5
+
+armor:
+  diamond-damage-reduction: 0.20
+  gold-damage-reduction: 0.12

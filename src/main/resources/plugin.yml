@@ -1,0 +1,12 @@
+name: ArmiPlugin
+version: 1.0.0
+main: it.kodari.armi.ArmiPlugin
+api-version: '1.21'
+description: Armi, munizioni e potenziamenti per le chestplate.
+commands:
+  armi:
+    description: Apre il menu delle armi.
+    usage: /armi
+  gap:
+    description: Ricevi le chestplate potenziate.
+    usage: /gap
